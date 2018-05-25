@@ -6,7 +6,7 @@ Now you can long-term track your personal KWH usage with data copied to your per
 
 ![LCEC Data Scraper And Energy Monitor Dashboard](public/images/example-screenshot.png)
 
-##Requirements:
+## Requirements:
 * PHP >= 7.1.3
 * OpenSSL PHP Extension
 * PDO PHP Extension
@@ -16,7 +16,7 @@ Now you can long-term track your personal KWH usage with data copied to your per
 * Ctype PHP Extension
 * JSON PHP Extension
 
-##Dev notes:
+## Dev notes:
 1. Working on:
    * Dashboard Design.
    * Alternate temperature source.
@@ -27,7 +27,7 @@ Now you can long-term track your personal KWH usage with data copied to your per
 Future:
 KWH prediction and analysis using machine learning.
 
-##Made with & thanks to:
+## Made with & thanks to:
 - [Laravel Framework](https://github.com/laravel/laravel)
 - [Goutte, a simple PHP Web Scraper](https://github.com/FriendsOfPHP/Goutte)
 - [Bootstrap 4](https://getbootstrap.com/)
@@ -35,8 +35,8 @@ KWH prediction and analysis using machine learning.
 - [PHPStorm IDE](https://www.jetbrains.com/phpstorm/)
 - [Sophie, my dog](https://www.dropbox.com/s/40g8apyqmz8tzb7/sophie.jpg?raw=1)
 
-##Author:
+## Author:
 Brennan Vargas ([me@b-v.co](mailto:me@b-v.co))
 
-##License:
+## License:
 - [MIT](LICENSE)
