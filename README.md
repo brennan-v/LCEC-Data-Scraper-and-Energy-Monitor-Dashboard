@@ -4,8 +4,10 @@ Made for Lee County residents with LCEC as their electric utility company.
 
 Now you can long-term track your personal KWH usage with data copied to your personal database.
 
+![alt text](public/images/example-screenshot.png)
+
 Todo:
-Database structure.
+Database structure. 
 Dashboard design.
 
 Future:
